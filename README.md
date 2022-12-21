@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Welcome To Let's Share App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Let's Share is Social Web Application For User to Post Their Experience and Photo and Share it to Public Where other person can save and comment each other post. this application built with React Framework and Front-End tools like tailwind and Sanity As The Back-End Server
+
+To go to live website clikc this link [Let's Share Website](https://letshare-julius.netlify.app/login) to Test My Application
 
 ## Available Scripts
 
